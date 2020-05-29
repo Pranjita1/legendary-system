@@ -1,4 +1,4 @@
-# legendary-system
+# legendary-system - Visualization projects
 
 1) Visualizing Covid-19: project
 
